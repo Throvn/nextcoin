@@ -1,4 +1,4 @@
 # Nextcoin
-I had to code a cryptocurrency which uses blockchain for my CS class
+This is my first project with blockchain.
 
-This is the result and my first try :)
+I coded my own blockchain comprising the cryptocurrency "nextcoin" in Java.
